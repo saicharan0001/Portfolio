@@ -110,7 +110,7 @@ body{
     }
 }
 
-/* About section starts */
+/* expertise section starts */
 
 .heading small{
     color: #6f34fe;
@@ -226,6 +226,7 @@ body{
     border: none;
 }
 
+
 /* Education section starts */
 .blog{
     background-color: #f2f2ff;
@@ -278,7 +279,6 @@ body{
     font-size: 1rem;
     color: #6f34fe;
 }
-
 /* contact section starts */
 .contact{
     background-color: #f3f3f3;
@@ -299,7 +299,6 @@ body{
     padding: 10px 10px;
     width: 80%;
 }
-
 
 /* footer section starts */
 footer{
